@@ -1,6 +1,6 @@
 # ¡Hola! Soy Patricia 👋
 
-Soy **Analista de Datos** con formación en antropología cultural y estudios visuales — una base que me enseñó a observar, escuchar y entender patrones de comportamiento humano mucho antes de aprender a leerlos en una tabla.
+Soy **Analista de Datos** con formación en antropología cultural y estudios visuales — una base que me enseñó a observar, escuchar y entender patrones de comportamiento humano mucho antes de aprender a leerlos en datos.
 
 Esa mirada es hoy mi mayor fortaleza: sé traducir datos complejos en historias claras y visuales, incluso para personas sin formación técnica. Disfruto especialmente esa parte del trabajo — el momento en que un dashboard deja de ser números y se convierte en una decisión.
 
