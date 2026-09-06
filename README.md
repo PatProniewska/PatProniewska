@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Patricia 👋
 
-<!--
-**PatProniewska/PatProniewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst Junior · Barcelona
 
-Here are some ideas to get you started:
+De la antropología cultural al análisis de datos — mismo interés de fondo: entender patrones de comportamiento, ahora a través de números en vez de etnografía.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo con SQL, Power BI y Python. Me interesa especialmente la parte de traducir datos en historias claras: dashboards y visualizaciones que alguien sin formación técnica pueda entender de un vistazo.
+
+---
+
+**Stack:** SQL · Power BI · Python (Pandas) · Git
+
+**Contacto:** [LinkedIn](https://linkedin.com/in/patricia-proniewska-09144a3b4) · patrycjaproniewska@gmail.com
